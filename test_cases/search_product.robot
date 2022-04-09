@@ -12,6 +12,3 @@ Buscar iPhone no site KaBuM!
     Pop-up Consentimento
     Search iPhone             iPhone
     iPhone Returned
-
-    
-      
