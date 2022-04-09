@@ -11,4 +11,4 @@ Selecionar produto no departamento escolhido e adicioná-lo ao carrinho de compr
     Pop-up Consentimento
     Departaments
     Add Product
-    Cart Check
+    Cart Check 
