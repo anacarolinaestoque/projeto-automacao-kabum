@@ -7,7 +7,6 @@ Test Teardown    Encerra Sessão
 
 *** Test Cases ***
 Selecionar produto no departamento escolhido e adicioná-lo ao carrinho de compras
-    [tags]    shopping_cart
 
     Pop-up Consentimento
     Departaments
