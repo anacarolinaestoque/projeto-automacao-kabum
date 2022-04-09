@@ -9,7 +9,8 @@ ${url}           https://www.kabum.com.br/
 
 *** Keywords ***
 Nova Sessão        
-    Open Browser        ${url}           chrome
+    Open Browser                ${url}           chrome
+    Maximize Browser Window
 
 Encerra Sessão  
     Capture Page Screenshot
